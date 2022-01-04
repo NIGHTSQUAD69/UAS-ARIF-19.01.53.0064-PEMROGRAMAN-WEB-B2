@@ -1,2 +1,3 @@
-# UAS-ARIF-19.01.53.0064-PEMROGRAMAN-WEB-B2
-UAS ARIF BUDI SETIAWAN 19.01.53.0064 PEMROGRAMAN WEB-B2 MARDI SISWO UTOMO -2021
+# laravel
+CRUD KTP dengan framework laravel;
+Import Database laravel_ajax.sql
